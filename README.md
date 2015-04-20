@@ -13,7 +13,7 @@ This plugin serves many purposes:
 
 ## Tutorial
 
-The [index.js](https://github.com/resin-io/resin-plugin-hello/blob/master/index.js) file is fully commented as a basic Resin CLI plugin development tutorial. Checkout this file if you want to learn to developer your first Resin CLI plugin.
+The [index.js](https://github.com/resin-io/resin-plugin-hello/blob/master/index.js) file is fully commented as a basic Resin CLI plugin development tutorial. Checkout this file if you want to learn to develop your first Resin CLI plugin.
 
 ## Package.json
 
@@ -62,7 +62,7 @@ Hey there Juan!!!
 
 We're working hard to bring extensive documentation of plugin development to you.
 
-In the midtime, take a look at [Capitano](https://github.com/resin-io/capitano) as most of the most powerful features come from it.
+In the meantime, take a look at [Capitano](https://github.com/resin-io/capitano) as most of the most powerful features come from it.
 
 ## CoffeeScript
 
